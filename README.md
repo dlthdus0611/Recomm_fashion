@@ -8,7 +8,7 @@
 - part, fabric, shape, texture 4가지 label을 이용해 약 230가지 속성을 분류하는 4개의 CNN 모델링 진행
 
 2) Deepfashion2
-- 이미지에서 옷을 detection해주는 mask-RCNN 모델링 진행
+- 이미지에서 옷을 detection해주는 mask R-CNN 모델링 진행
 
 3) musinsa
 - 위 AI 모델들을 이용해 input으로 들어온 임의의 옷에 대한 코디 output으로 무신사 코디숍 데이터 크롤링해 제공
